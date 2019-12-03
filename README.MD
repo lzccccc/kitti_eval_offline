@@ -1,5 +1,5 @@
 # KITTI_eval_offline
-Evaluate detection model on KITTI offline using 40 recall positions as proposed by MonoDIS [1].
+Evaluate detection model on KITTI offline using 40 recall positions as proposed in MonoDIS [1].
 
 ## How to use
 1. Complie `evaluate_object_offline.cpp`.
